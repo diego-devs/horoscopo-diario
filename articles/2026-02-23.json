@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-23",
+  "horoscopes": [
+    {
+      "sign": "Aries",
+      "emoji": "♈",
+      "element": "Fuego",
+      "prediction": "La energía del inicio de semana te favorece. Un proyecto que dejaste pausado pide tu atención — hoy es buen día para retomarlo con fuerza. Evita discusiones innecesarias en la tarde.",
+      "luckyNumber": 9,
+      "mood": "Decidido",
+      "compatibility": "Sagitario"
+    },
+    {
+      "sign": "Tauro",
+      "emoji": "♉",
+      "element": "Tierra",
+      "prediction": "Las finanzas necesitan tu atención hoy. Revisa esos gastos pequeños que se acumulan sin que te des cuenta. En el amor, un gesto simple vale más que mil palabras.",
+      "luckyNumber": 4,
+      "mood": "Reflexivo",
+      "compatibility": "Virgo"
+    },
+    {
+      "sign": "Géminis",
+      "emoji": "♊",
+      "element": "Aire",
+      "prediction": "Tu mente está especialmente ágil hoy — aprovecha para resolver ese problema que te ha dado vueltas. Una conversación inesperada podría abrirte una puerta que no esperabas.",
+      "luckyNumber": 11,
+      "mood": "Curioso",
+      "compatibility": "Acuario"
+    },
+    {
+      "sign": "Cáncer",
+      "emoji": "♋",
+      "element": "Agua",
+      "prediction": "El hogar es tu refugio hoy. Si puedes, dedica tiempo a tu espacio personal — ordenar por fuera ayuda a ordenar por dentro. Alguien cercano necesita que lo escuches sin juzgar.",
+      "luckyNumber": 2,
+      "mood": "Protector",
+      "compatibility": "Escorpio"
+    },
+    {
+      "sign": "Leo",
+      "emoji": "♌",
+      "element": "Fuego",
+      "prediction": "Tu carisma está al máximo. Es un gran día para liderar, proponer ideas o tomar la iniciativa en algo que venías posponiendo. Cuidado con el ego: escuchar también es brillar.",
+      "luckyNumber": 1,
+      "mood": "Magnético",
+      "compatibility": "Aries"
+    },
+    {
+      "sign": "Virgo",
+      "emoji": "♍",
+      "element": "Tierra",
+      "prediction": "Los detalles importan hoy más que nunca. Esa revisión que ibas a dejar para después — hazla ahora. Tu salud te pide más agua y menos pantalla antes de dormir.",
+      "luckyNumber": 6,
+      "mood": "Meticuloso",
+      "compatibility": "Capricornio"
+    },
+    {
+      "sign": "Libra",
+      "emoji": "♎",
+      "element": "Aire",
+      "prediction": "Buscarás equilibrio entre lo que quieres hacer y lo que debes hacer. No te presiones por complacer a todos — a veces elegirte a ti es el acto más justo. Buenas noticias sociales en la tarde.",
+      "luckyNumber": 7,
+      "mood": "Armonioso",
+      "compatibility": "Géminis"
+    },
+    {
+      "sign": "Escorpio",
+      "emoji": "♏",
+      "element": "Agua",
+      "prediction": "Tu intuición está afilada. Si algo no se siente bien, confía en esa corazonada. Es buen momento para soltar lo que ya no te sirve — personas, hábitos o pensamientos.",
+      "luckyNumber": 8,
+      "mood": "Intenso",
+      "compatibility": "Piscis"
+    },
+    {
+      "sign": "Sagitario",
+      "emoji": "♐",
+      "element": "Fuego",
+      "prediction": "El lunes arranca con ganas de movimiento y aventura. Aunque la rutina te jale, busca ese espacio para aprender algo nuevo o explorar una idea diferente. El optimismo es tu mejor herramienta hoy.",
+      "luckyNumber": 3,
+      "mood": "Aventurero",
+      "compatibility": "Leo"
+    },
+    {
+      "sign": "Capricornio",
+      "emoji": "♑",
+      "element": "Tierra",
+      "prediction": "La disciplina rinde frutos hoy. Algo en lo que has trabajado en silencio empieza a mostrar resultados. No te compares con el ritmo de otros — tu camino tiene su propio tiempo.",
+      "luckyNumber": 10,
+      "mood": "Determinado",
+      "compatibility": "Tauro"
+    },
+    {
+      "sign": "Acuario",
+      "emoji": "♒",
+      "element": "Aire",
+      "prediction": "Ideas frescas llegan sin avisar — anótalas antes de que se escapen. Un amigo podría necesitar tu perspectiva diferente. Hoy es mejor innovar que seguir la corriente.",
+      "luckyNumber": 5,
+      "mood": "Innovador",
+      "compatibility": "Libra"
+    },
+    {
+      "sign": "Piscis",
+      "emoji": "♓",
+      "element": "Agua",
+      "prediction": "Tu sensibilidad está a flor de piel — y eso no es debilidad, es tu superpoder. La creatividad fluye si le das espacio. Cuida tus límites emocionales con quienes drenan tu energía.",
+      "luckyNumber": 12,
+      "mood": "Soñador",
+      "compatibility": "Cáncer"
+    }
+  ]
+}
