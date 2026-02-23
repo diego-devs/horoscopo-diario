@@ -349,7 +349,8 @@
         }
 
         const latest = index[index.length - 1];
-        const articleRes = await fetch(`articles/${latest}.json`);
+        const dateStr = typeof latest === 'string' ? latest : (latest.date || latest.file || latest);
+        const articleRes = await fetch(`articles/${dateStr}.json`);
         const article = await articleRes.json();
 
         const [y, m, d] = article.date.split('-');
