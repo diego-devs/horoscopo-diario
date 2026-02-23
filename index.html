@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Horóscopo Diario ✨</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0a0a12;
+      --surface: #12121e;
+      --border: #1e1e30;
+      --accent: #9b59b6;
+      --accent-glow: #b370cf;
+      --text: #e8e6e3;
+      --text-muted: #8a8a9a;
+      --gold: #c9a96e;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Inter', sans-serif;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Stars background */
+    body::before {
+      content: '';
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background:
+        radial-gradient(1px 1px at 10% 20%, rgba(255,255,255,0.6), transparent),
+        radial-gradient(1px 1px at 30% 60%, rgba(255,255,255,0.4), transparent),
+        radial-gradient(1.5px 1.5px at 50% 10%, rgba(255,255,255,0.7), transparent),
+        radial-gradient(1px 1px at 70% 40%, rgba(255,255,255,0.5), transparent),
+        radial-gradient(1px 1px at 90% 80%, rgba(255,255,255,0.3), transparent),
+        radial-gradient(1.5px 1.5px at 15% 85%, rgba(255,255,255,0.6), transparent),
+        radial-gradient(1px 1px at 45% 45%, rgba(255,255,255,0.4), transparent),
+        radial-gradient(1px 1px at 80% 15%, rgba(255,255,255,0.5), transparent),
+        radial-gradient(1.5px 1.5px at 25% 35%, rgba(155,89,182,0.4), transparent),
+        radial-gradient(1px 1px at 65% 70%, rgba(155,89,182,0.3), transparent),
+        radial-gradient(1px 1px at 5% 50%, rgba(255,255,255,0.3), transparent),
+        radial-gradient(1px 1px at 55% 90%, rgba(255,255,255,0.4), transparent),
+        radial-gradient(1.5px 1.5px at 85% 55%, rgba(255,255,255,0.5), transparent),
+        radial-gradient(1px 1px at 35% 15%, rgba(255,255,255,0.3), transparent),
+        radial-gradient(1px 1px at 95% 35%, rgba(255,255,255,0.4), transparent);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 1rem;
+    }
+
+    /* Header */
+    header {
+      text-align: center;
+      padding: 3rem 1rem 2rem;
+    }
+
+    header h1 {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 2.8rem;
+      font-weight: 600;
+      color: var(--text);
+      margin-bottom: 0.5rem;
+    }
+
+    header p {
+      font-size: 1rem;
+      color: var(--text-muted);
+      letter-spacing: 0.1em;
+    }
+
+    .date-display {
+      margin-top: 1rem;
+      font-size: 0.85rem;
+      color: var(--accent);
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+    }
+
+    /* Sign Selector */
+    .sign-selector {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.5rem;
+      padding: 1.5rem 0;
+    }
+
+    .sign-btn {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      color: var(--text-muted);
+      padding: 0.5rem 0.8rem;
+      border-radius: 8px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      transition: all 0.2s;
+      font-family: 'Inter', sans-serif;
+    }
+
+    .sign-btn:hover {
+      border-color: var(--accent);
+      color: var(--text);
+    }
+
+    .sign-btn.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+      box-shadow: 0 0 15px rgba(155,89,182,0.3);
+    }
+
+    .sign-btn .emoji { margin-right: 0.3rem; }
+
+    /* Cards Grid */
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+      gap: 1.25rem;
+      padding: 1rem 0 2rem;
+    }
+
+    .card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.5rem;
+      transition: all 0.3s;
+    }
+
+    .card:hover {
+      border-color: var(--accent);
+      box-shadow: 0 0 20px rgba(155,89,182,0.15);
+      transform: translateY(-2px);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    .card-emoji {
+      font-size: 2.2rem;
+      line-height: 1;
+    }
+
+    .card-sign {
+      font-family: 'Cormorant Garamond', serif;
+      font-size: 1.4rem;
+      font-weight: 600;
+    }
+
+    .card-element {
+      font-size: 0.7rem;
+      color: var(--accent);
+      letter-spacing: 0.15em;
+      text-transform: uppercase;
+    }
+
+    .card-prediction {
+      font-size: 0.9rem;
+      line-height: 1.7;
+      color: var(--text-muted);
+      margin-bottom: 1.25rem;
+    }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      font-size: 0.75rem;
+      color: var(--text-muted);
+    }
+
+    .card-meta span {
+      background: rgba(155,89,182,0.1);
+      padding: 0.3rem 0.6rem;
+      border-radius: 6px;
+      border: 1px solid rgba(155,89,182,0.15);
+    }
+
+    /* Empty state */
+    .empty {
+      text-align: center;
+      padding: 4rem 1rem;
+      color: var(--text-muted);
+    }
+
+    .empty .big-emoji { font-size: 3rem; margin-bottom: 1rem; }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 2rem 1rem 3rem;
+      border-top: 1px solid var(--border);
+      margin-top: 2rem;
+    }
+
+    footer p {
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      margin-bottom: 0.5rem;
+    }
+
+    footer a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    footer a:hover { text-decoration: underline; }
+
+    .subscribe-cta {
+      display: inline-block;
+      margin-top: 1rem;
+      padding: 0.7rem 1.5rem;
+      background: var(--accent);
+      color: #fff;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 0.85rem;
+      font-weight: 500;
+      transition: all 0.2s;
+    }
+
+    .subscribe-cta:hover {
+      background: var(--accent-glow);
+      text-decoration: none;
+      box-shadow: 0 0 20px rgba(155,89,182,0.3);
+    }
+
+    @media (max-width: 600px) {
+      header h1 { font-size: 2rem; }
+      .cards { grid-template-columns: 1fr; }
+      .sign-btn { padding: 0.4rem 0.6rem; font-size: 0.8rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Horóscopo Diario ✨</h1>
+      <p>Tu guía cósmica de cada día</p>
+      <div class="date-display" id="dateDisplay"></div>
+    </header>
+
+    <div class="sign-selector" id="signSelector">
+      <button class="sign-btn active" data-sign="all"><span class="emoji">🌌</span>Todos</button>
+    </div>
+
+    <div class="cards" id="cards">
+      <div class="empty">
+        <div class="big-emoji">🔮</div>
+        <p>Cargando las estrellas...</p>
+      </div>
+    </div>
+
+    <footer>
+      <p>Recibe tu horóscopo personalizado cada mañana en tu email.</p>
+      <a class="subscribe-cta" href="mailto:david.asistente.ai@gmail.com?subject=SUSCRIBIR%20HOROSCOPO%20%5BTU%20SIGNO%5D&body=Reemplaza%20%5BTU%20SIGNO%5D%20en%20el%20asunto%20con%20tu%20signo%20(ej%3A%20ARIES%2C%20TAURO%2C%20etc.)">📧 Suscribirme al Newsletter</a>
+      <p style="margin-top:1rem;">Hecho con ✨ por <a href="https://github.com/diego-devs">diego-devs</a></p>
+    </footer>
+  </div>
+
+  <script>
+    const SIGNS = [
+      { sign: 'Aries', emoji: '♈' }, { sign: 'Tauro', emoji: '♉' },
+      { sign: 'Géminis', emoji: '♊' }, { sign: 'Cáncer', emoji: '♋' },
+      { sign: 'Leo', emoji: '♌' }, { sign: 'Virgo', emoji: '♍' },
+      { sign: 'Libra', emoji: '♎' }, { sign: 'Escorpio', emoji: '♏' },
+      { sign: 'Sagitario', emoji: '♐' }, { sign: 'Capricornio', emoji: '♑' },
+      { sign: 'Acuario', emoji: '♒' }, { sign: 'Piscis', emoji: '♓' }
+    ];
+
+    const MONTHS = ['Enero','Febrero','Marzo','Abril','Mayo','Junio','Julio','Agosto','Septiembre','Octubre','Noviembre','Diciembre'];
+
+    let currentFilter = 'all';
+    let horoscopes = [];
+
+    // Build sign selector buttons
+    const selector = document.getElementById('signSelector');
+    SIGNS.forEach(s => {
+      const btn = document.createElement('button');
+      btn.className = 'sign-btn';
+      btn.dataset.sign = s.sign;
+      btn.innerHTML = `<span class="emoji">${s.emoji}</span>${s.sign}`;
+      selector.appendChild(btn);
+    });
+
+    selector.addEventListener('click', e => {
+      const btn = e.target.closest('.sign-btn');
+      if (!btn) return;
+      document.querySelectorAll('.sign-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      currentFilter = btn.dataset.sign;
+      renderCards();
+    });
+
+    function renderCards() {
+      const container = document.getElementById('cards');
+      const filtered = currentFilter === 'all' ? horoscopes : horoscopes.filter(h => h.sign === currentFilter);
+
+      if (filtered.length === 0) {
+        container.innerHTML = `<div class="empty"><div class="big-emoji">🌙</div><p>No hay horóscopo disponible aún. ¡Vuelve pronto!</p></div>`;
+        return;
+      }
+
+      container.innerHTML = filtered.map(h => `
+        <div class="card">
+          <div class="card-header">
+            <span class="card-emoji">${h.emoji}</span>
+            <div>
+              <div class="card-sign">${h.sign}</div>
+              <div class="card-element">${h.element}</div>
+            </div>
+          </div>
+          <p class="card-prediction">${h.prediction}</p>
+          <div class="card-meta">
+            <span>🍀 Número: ${h.luckyNumber}</span>
+            <span>💫 Mood: ${h.mood}</span>
+            <span>💕 Compatible: ${h.compatibility}</span>
+          </div>
+        </div>
+      `).join('');
+    }
+
+    async function load() {
+      try {
+        const indexRes = await fetch('articles/index.json');
+        const index = await indexRes.json();
+
+        if (index.length === 0) {
+          horoscopes = [];
+          renderCards();
+          return;
+        }
+
+        const latest = index[index.length - 1];
+        const articleRes = await fetch(`articles/${latest}.json`);
+        const article = await articleRes.json();
+
+        const [y, m, d] = article.date.split('-');
+        document.getElementById('dateDisplay').textContent = `${parseInt(d)} de ${MONTHS[parseInt(m)-1]}, ${y}`;
+
+        horoscopes = article.horoscopes || [];
+        renderCards();
+      } catch (e) {
+        horoscopes = [];
+        renderCards();
+      }
+    }
+
+    load();
+  </script>
+</body>
+</html>
