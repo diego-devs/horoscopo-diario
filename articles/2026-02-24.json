@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-24",
+  "horoscopes": [
+    {
+      "sign": "Aries",
+      "emoji": "♈",
+      "element": "Fuego",
+      "prediction": "Hoy sientes que todo va lento y eso te desespera. Respira — no todo se resuelve a tu ritmo. Una propuesta laboral interesante podría llegar por la tarde, mantén los ojos abiertos.",
+      "luckyNumber": 7,
+      "mood": "Impaciente",
+      "compatibility": "Leo"
+    },
+    {
+      "sign": "Tauro",
+      "emoji": "♉",
+      "element": "Tierra",
+      "prediction": "Un martes perfecto para poner orden en tus prioridades. Ese pendiente que arrastras desde la semana pasada no se va solo — enfréntalo. En lo personal, alguien te sorprenderá con su honestidad.",
+      "luckyNumber": 12,
+      "mood": "Enfocado",
+      "compatibility": "Capricornio"
+    },
+    {
+      "sign": "Géminis",
+      "emoji": "♊",
+      "element": "Aire",
+      "prediction": "Las palabras fluyen hoy con facilidad. Aprovecha para esa conversación difícil que has estado evitando. No todo tiene que ser perfecto para empezar — a veces empezar es lo que lo hace perfecto.",
+      "luckyNumber": 3,
+      "mood": "Comunicativo",
+      "compatibility": "Libra"
+    },
+    {
+      "sign": "Cáncer",
+      "emoji": "♋",
+      "element": "Agua",
+      "prediction": "La nostalgia toca tu puerta hoy, pero no te quedes ahí. Usa esos recuerdos como combustible, no como ancla. Un mensaje de alguien del pasado podría alegrar tu tarde.",
+      "luckyNumber": 2,
+      "mood": "Nostálgico",
+      "compatibility": "Piscis"
+    },
+    {
+      "sign": "Leo",
+      "emoji": "♌",
+      "element": "Fuego",
+      "prediction": "No necesitas que todos te aplaudan para saber que vas bien. Hoy trabaja en silencio y deja que los resultados hablen. Una cena tranquila o una película te recargará mejor que cualquier fiesta.",
+      "luckyNumber": 5,
+      "mood": "Introspectivo",
+      "compatibility": "Sagitario"
+    },
+    {
+      "sign": "Virgo",
+      "emoji": "♍",
+      "element": "Tierra",
+      "prediction": "Tu perfeccionismo hoy juega a tu favor — úsalo en ese proyecto que necesita pulirse. Pero no lo apliques a las personas: acepta que otros hacen las cosas diferente y eso está bien.",
+      "luckyNumber": 8,
+      "mood": "Productivo",
+      "compatibility": "Tauro"
+    },
+    {
+      "sign": "Libra",
+      "emoji": "♎",
+      "element": "Aire",
+      "prediction": "Hoy toca decidir, y sí, va a ser incómodo. Deja de pesar pros y contras infinitamente — tu instinto ya sabe la respuesta. En el amor, la sinceridad te abre más puertas que la diplomacia.",
+      "luckyNumber": 11,
+      "mood": "Resolutivo",
+      "compatibility": "Acuario"
+    },
+    {
+      "sign": "Escorpio",
+      "emoji": "♏",
+      "element": "Agua",
+      "prediction": "Hay algo que te carcome por dentro y hoy es buen día para soltarlo. No guardes rencores como trofeos. Una actividad física intensa te ayudará a canalizar esa energía acumulada.",
+      "luckyNumber": 9,
+      "mood": "Liberador",
+      "compatibility": "Cáncer"
+    },
+    {
+      "sign": "Sagitario",
+      "emoji": "♐",
+      "element": "Fuego",
+      "prediction": "El martes te trae claridad mental. Esa idea que parecía loca empieza a tomar forma — confía en el proceso. Un contacto inesperado podría abrirte una oportunidad que ni buscabas.",
+      "luckyNumber": 21,
+      "mood": "Visionario",
+      "compatibility": "Aries"
+    },
+    {
+      "sign": "Capricornio",
+      "emoji": "♑",
+      "element": "Tierra",
+      "prediction": "Hoy la paciencia es tu superpoder. Los resultados que esperas están más cerca de lo que crees, no aflojes ahora. Permítete un gusto pequeño — no todo tiene que ser sacrificio.",
+      "luckyNumber": 4,
+      "mood": "Paciente",
+      "compatibility": "Virgo"
+    },
+    {
+      "sign": "Acuario",
+      "emoji": "♒",
+      "element": "Aire",
+      "prediction": "Tu lado rebelde quiere salir hoy y no está mal dejarlo. Cuestiona lo que ya no te funciona — en el trabajo, en tus hábitos, en lo que sea. El cambio empieza cuando dejas de fingir que todo está bien.",
+      "luckyNumber": 17,
+      "mood": "Rebelde",
+      "compatibility": "Géminis"
+    },
+    {
+      "sign": "Piscis",
+      "emoji": "♓",
+      "element": "Agua",
+      "prediction": "La creatividad te desborda hoy — ponla en algo concreto antes de que se disipe. Escribe, dibuja, cocina, lo que sea. Cuida no absorber las emociones de los demás como esponja.",
+      "luckyNumber": 6,
+      "mood": "Creativo",
+      "compatibility": "Escorpio"
+    }
+  ]
+}
