@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-25",
+  "horoscopes": [
+    {
+      "sign": "Aries",
+      "emoji": "♈",
+      "element": "Fuego",
+      "prediction": "Miércoles de pura acción. Un problema que parecía imposible se destapa solo si cambias de perspectiva. No te enganches en discusiones tontas — tu energía vale más que eso.",
+      "luckyNumber": 14,
+      "mood": "Decidido",
+      "compatibility": "Sagitario"
+    },
+    {
+      "sign": "Tauro",
+      "emoji": "♉",
+      "element": "Tierra",
+      "prediction": "Hoy el universo te pide soltar el control un rato. Deja que las cosas fluyan sin forzarlas. Una comida rica o un paseo corto te van a reconectar contigo mismo mejor que cualquier plan elaborado.",
+      "luckyNumber": 6,
+      "mood": "Relajado",
+      "compatibility": "Cáncer"
+    },
+    {
+      "sign": "Géminis",
+      "emoji": "♊",
+      "element": "Aire",
+      "prediction": "Cuidado con prometer más de lo que puedes cumplir. Tu entusiasmo es contagioso pero hoy mejor mide tus tiempos. Una idea que compartes a medio día podría convertirse en algo grande si le das seguimiento.",
+      "luckyNumber": 19,
+      "mood": "Entusiasta",
+      "compatibility": "Acuario"
+    },
+    {
+      "sign": "Cáncer",
+      "emoji": "♋",
+      "element": "Agua",
+      "prediction": "Tu intuición está afilada hoy — hazle caso aunque no tenga lógica aparente. Alguien cercano necesita que lo escuches sin juzgar. En lo económico, revisa bien antes de gastar en impulso.",
+      "luckyNumber": 22,
+      "mood": "Intuitivo",
+      "compatibility": "Tauro"
+    },
+    {
+      "sign": "Leo",
+      "emoji": "♌",
+      "element": "Fuego",
+      "prediction": "Hoy brillas sin esfuerzo y la gente lo nota. Aprovecha esa energía para avanzar en algo que te apasiona. Ojo: no confundas atención con afecto — no todos los aplausos son sinceros.",
+      "luckyNumber": 1,
+      "mood": "Magnético",
+      "compatibility": "Libra"
+    },
+    {
+      "sign": "Virgo",
+      "emoji": "♍",
+      "element": "Tierra",
+      "prediction": "Deja de repasar la lista mental de pendientes y empieza por uno. Solo uno. El resto se acomoda después. Hoy alguien te pide un favor — di que sí solo si realmente puedes cumplir.",
+      "luckyNumber": 10,
+      "mood": "Práctico",
+      "compatibility": "Capricornio"
+    },
+    {
+      "sign": "Libra",
+      "emoji": "♎",
+      "element": "Aire",
+      "prediction": "El equilibrio que buscas no está afuera — está en dejar de complacer a todos. Hoy priorízate. Una conversación honesta con alguien importante puede cambiar la dinámica para bien.",
+      "luckyNumber": 15,
+      "mood": "Centrado",
+      "compatibility": "Leo"
+    },
+    {
+      "sign": "Escorpio",
+      "emoji": "♏",
+      "element": "Agua",
+      "prediction": "Miércoles intenso. Algo que tenías guardado sale a la luz y es mejor así. No le temas a la vulnerabilidad — hoy es tu fuerza, no tu debilidad. Buen momento para cerrar ciclos.",
+      "luckyNumber": 8,
+      "mood": "Transformador",
+      "compatibility": "Piscis"
+    },
+    {
+      "sign": "Sagitario",
+      "emoji": "♐",
+      "element": "Fuego",
+      "prediction": "La rutina te asfixia pero hoy encuentras una grieta por donde meter aventura. Puede ser algo pequeño — un lugar nuevo, una conversación con un desconocido. Tu optimismo contagia a quienes te rodean.",
+      "luckyNumber": 33,
+      "mood": "Aventurero",
+      "compatibility": "Aries"
+    },
+    {
+      "sign": "Capricornio",
+      "emoji": "♑",
+      "element": "Tierra",
+      "prediction": "Hoy cosechas algo que sembraste hace semanas. No es casualidad — es tu disciplina dando frutos. Permítete celebrar aunque sea en privado. Una llamada o mensaje trae buenas noticias.",
+      "luckyNumber": 4,
+      "mood": "Satisfecho",
+      "compatibility": "Virgo"
+    },
+    {
+      "sign": "Acuario",
+      "emoji": "♒",
+      "element": "Aire",
+      "prediction": "Tu mente va a mil y eso es normal en ti, pero hoy canaliza esa velocidad en algo productivo. Un proyecto creativo pide tu atención. No tengas miedo de pedir ayuda — no es debilidad, es inteligencia.",
+      "luckyNumber": 27,
+      "mood": "Ingenioso",
+      "compatibility": "Géminis"
+    },
+    {
+      "sign": "Piscis",
+      "emoji": "♓",
+      "element": "Agua",
+      "prediction": "Los sueños de anoche te dejaron un mensaje — préstales atención. Hoy fluye con calma, sin prisas. Alguien te busca para pedirte consejo y tu perspectiva les va a iluminar el camino.",
+      "luckyNumber": 11,
+      "mood": "Sabio",
+      "compatibility": "Escorpio"
+    }
+  ]
+}
