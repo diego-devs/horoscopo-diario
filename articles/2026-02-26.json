@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-26",
+  "horoscopes": [
+    {
+      "sign": "Aries",
+      "emoji": "♈",
+      "element": "Fuego",
+      "prediction": "Jueves para tomar decisiones que venías posponiendo. La claridad llega si dejas de darle vueltas y actúas. Un mensaje inesperado te abre una puerta que no sabías que existía.",
+      "luckyNumber": 9,
+      "mood": "Resuelto",
+      "compatibility": "Leo"
+    },
+    {
+      "sign": "Tauro",
+      "emoji": "♉",
+      "element": "Tierra",
+      "prediction": "Hoy tu terquedad juega a tu favor — no sueltes lo que sabes que vale la pena. En lo financiero, un gasto pequeño pero inteligente te ahorra dolores de cabeza después. Consiéntete sin culpa.",
+      "luckyNumber": 21,
+      "mood": "Firme",
+      "compatibility": "Virgo"
+    },
+    {
+      "sign": "Géminis",
+      "emoji": "♊",
+      "element": "Aire",
+      "prediction": "Tu don de palabra está en su punto. Si hay algo que necesitas negociar o explicar, hoy es el día. Evita los chismes — te quitan energía que podrías usar en algo que de verdad importa.",
+      "luckyNumber": 12,
+      "mood": "Elocuente",
+      "compatibility": "Libra"
+    },
+    {
+      "sign": "Cáncer",
+      "emoji": "♋",
+      "element": "Agua",
+      "prediction": "La nostalgia toca la puerta pero no la dejes quedarse mucho rato. Usa ese sentimiento para agradecer, no para estancarte. Alguien de tu familia te sorprende con un gesto que no esperabas.",
+      "luckyNumber": 17,
+      "mood": "Agradecido",
+      "compatibility": "Escorpio"
+    },
+    {
+      "sign": "Leo",
+      "emoji": "♌",
+      "element": "Fuego",
+      "prediction": "Hoy el protagonismo se siente natural, no forzado. Aprovecha para liderar ese proyecto o conversación que nadie más quiere iniciar. Tu generosidad regresa multiplicada antes de que termine la semana.",
+      "luckyNumber": 31,
+      "mood": "Generoso",
+      "compatibility": "Aries"
+    },
+    {
+      "sign": "Virgo",
+      "emoji": "♍",
+      "element": "Tierra",
+      "prediction": "Un detalle que otros pasan por alto tú lo detectas al instante — confía en esa capacidad. Buen día para organizar, limpiar o cerrar pendientes. Por la tarde, date permiso de no hacer nada.",
+      "luckyNumber": 5,
+      "mood": "Observador",
+      "compatibility": "Tauro"
+    },
+    {
+      "sign": "Libra",
+      "emoji": "♎",
+      "element": "Aire",
+      "prediction": "Hoy las relaciones te piden atención. Una disculpa a tiempo vale más que mil explicaciones después. Si dudas entre dos opciones, elige la que te dé más paz, no la que se vea mejor.",
+      "luckyNumber": 24,
+      "mood": "Conciliador",
+      "compatibility": "Géminis"
+    },
+    {
+      "sign": "Escorpio",
+      "emoji": "♏",
+      "element": "Agua",
+      "prediction": "Tu poder está en lo que no dices. Hoy observa más y reacciona menos — la información llega sola si tienes paciencia. Un secreto que guardas podría liberarte si lo compartes con la persona correcta.",
+      "luckyNumber": 13,
+      "mood": "Estratégico",
+      "compatibility": "Cáncer"
+    },
+    {
+      "sign": "Sagitario",
+      "emoji": "♐",
+      "element": "Fuego",
+      "prediction": "Jueves con chispa creativa. Una idea que suena loca podría ser exactamente lo que necesitas para destrabar algo. No te limites por el qué dirán — tu autenticidad es tu mejor carta hoy.",
+      "luckyNumber": 7,
+      "mood": "Creativo",
+      "compatibility": "Acuario"
+    },
+    {
+      "sign": "Capricornio",
+      "emoji": "♑",
+      "element": "Tierra",
+      "prediction": "La paciencia que has tenido empieza a dar resultados visibles. No aflojes justo ahora. Un contacto profesional te busca con algo interesante — escúchalo aunque no parezca urgente.",
+      "luckyNumber": 28,
+      "mood": "Perseverante",
+      "compatibility": "Piscis"
+    },
+    {
+      "sign": "Acuario",
+      "emoji": "♒",
+      "element": "Aire",
+      "prediction": "Hoy rompes un patrón que te tenía atrapado sin que te dieras cuenta. La libertad está en los pequeños cambios de hábito. Alguien te admira en silencio — no siempre necesitas aplausos para saber que vas bien.",
+      "luckyNumber": 16,
+      "mood": "Libre",
+      "compatibility": "Sagitario"
+    },
+    {
+      "sign": "Piscis",
+      "emoji": "♓",
+      "element": "Agua",
+      "prediction": "Tu sensibilidad es un superpoder, no una debilidad. Hoy conectas profundamente con alguien a través del arte, la música o simplemente una buena plática. Confía en tu instinto para decisiones financieras.",
+      "luckyNumber": 20,
+      "mood": "Sensible",
+      "compatibility": "Capricornio"
+    }
+  ]
+}
