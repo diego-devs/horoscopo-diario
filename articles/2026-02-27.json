@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-27",
+  "horoscopes": [
+    {
+      "sign": "Aries",
+      "emoji": "♈",
+      "element": "Fuego",
+      "prediction": "Viernes para soltar el control y dejarte sorprender. Algo que planeaste diferente termina siendo mejor de lo que imaginaste. En la noche, una conversación casual te deja una idea brillante.",
+      "luckyNumber": 14,
+      "mood": "Espontáneo",
+      "compatibility": "Sagitario"
+    },
+    {
+      "sign": "Tauro",
+      "emoji": "♉",
+      "element": "Tierra",
+      "prediction": "La semana cierra con una sensación de logro silencioso. No necesitas que nadie lo note — tú sabes lo que costó. Date un gusto esta noche, te lo ganaste con creces.",
+      "luckyNumber": 33,
+      "mood": "Satisfecho",
+      "compatibility": "Capricornio"
+    },
+    {
+      "sign": "Géminis",
+      "emoji": "♊",
+      "element": "Aire",
+      "prediction": "Tu mente va a mil pero hoy conviene elegir una sola cosa y hacerla bien. La dispersión es tu enemiga este viernes. Un amigo te propone algo diferente para el fin de semana — di que sí.",
+      "luckyNumber": 8,
+      "mood": "Enfocado",
+      "compatibility": "Acuario"
+    },
+    {
+      "sign": "Cáncer",
+      "emoji": "♋",
+      "element": "Agua",
+      "prediction": "Hoy tu hogar es tu refugio. Algo tan simple como cocinar o poner orden te recarga más que cualquier salida. Si alguien te pide ayuda emocional, estás en tu mejor momento para darla.",
+      "luckyNumber": 22,
+      "mood": "Protector",
+      "compatibility": "Piscis"
+    },
+    {
+      "sign": "Leo",
+      "emoji": "♌",
+      "element": "Fuego",
+      "prediction": "El viernes te pide brillar en lo social. Acepta esa invitación que dudabas — la pasarás mejor de lo que crees. Cuidado con prometer más de lo que puedes cumplir el fin de semana.",
+      "luckyNumber": 19,
+      "mood": "Sociable",
+      "compatibility": "Libra"
+    },
+    {
+      "sign": "Virgo",
+      "emoji": "♍",
+      "element": "Tierra",
+      "prediction": "Cierra la semana atando cabos sueltos en lugar de empezar cosas nuevas. Tu futuro yo te lo agradecerá el lunes. Una noticia sobre dinero te llega antes de las 6 — puede ser mejor de lo esperado.",
+      "luckyNumber": 11,
+      "mood": "Metódico",
+      "compatibility": "Tauro"
+    },
+    {
+      "sign": "Libra",
+      "emoji": "♎",
+      "element": "Aire",
+      "prediction": "La belleza te llama hoy — ya sea un paisaje, una canción o una persona. Déjate inspirar sin analizarlo tanto. En pareja, un detalle pequeño pero sincero vale más que cualquier gran gesto.",
+      "luckyNumber": 27,
+      "mood": "Inspirado",
+      "compatibility": "Leo"
+    },
+    {
+      "sign": "Escorpio",
+      "emoji": "♏",
+      "element": "Agua",
+      "prediction": "Algo que investigas por curiosidad se convierte en una oportunidad real. Tu instinto detecta lo que otros no ven — hazle caso. El viernes por la noche trae intensidad emocional, úsala a tu favor.",
+      "luckyNumber": 3,
+      "mood": "Intuitivo",
+      "compatibility": "Cáncer"
+    },
+    {
+      "sign": "Sagitario",
+      "emoji": "♐",
+      "element": "Fuego",
+      "prediction": "Viernes expansivo. Una puerta que tocaste hace días se abre justo cuando dejaste de esperarla. Tu optimismo contagia a quienes te rodean — compártelo sin reservas. El fin de semana pinta para aventura.",
+      "luckyNumber": 42,
+      "mood": "Optimista",
+      "compatibility": "Aries"
+    },
+    {
+      "sign": "Capricornio",
+      "emoji": "♑",
+      "element": "Tierra",
+      "prediction": "Hoy tus planes a largo plazo cobran más sentido. Un consejo de alguien mayor o con experiencia te ahorra meses de prueba y error. Permítete descansar sin culpa — la disciplina también incluye pausas.",
+      "luckyNumber": 15,
+      "mood": "Sabio",
+      "compatibility": "Virgo"
+    },
+    {
+      "sign": "Acuario",
+      "emoji": "♒",
+      "element": "Aire",
+      "prediction": "Tu lado rebelde quiere hacer algo diferente hoy y no hay razón para frenarlo. Una idea poco convencional resulta ser exactamente lo que un proyecto necesitaba. Rodéate de gente que piense distinto a ti.",
+      "luckyNumber": 36,
+      "mood": "Innovador",
+      "compatibility": "Géminis"
+    },
+    {
+      "sign": "Piscis",
+      "emoji": "♓",
+      "element": "Agua",
+      "prediction": "Los sueños de anoche tienen algo que decirte — préstales atención. Tu creatividad fluye sin esfuerzo este viernes, ideal para escribir, dibujar o simplemente imaginar. Alguien te busca para reconectarse.",
+      "luckyNumber": 7,
+      "mood": "Soñador",
+      "compatibility": "Escorpio"
+    }
+  ]
+}
