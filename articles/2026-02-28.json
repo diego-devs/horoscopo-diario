@@ -1,0 +1,113 @@
+{
+  "date": "2026-02-28",
+  "horoscopes": [
+    {
+      "sign": "Aries",
+      "emoji": "♈",
+      "element": "Fuego",
+      "prediction": "Sábado para tomar la iniciativa en algo que venías posponiendo. Tu energía está al máximo y lo que empieces hoy tiene buenas bases. Una persona inesperada te ofrece exactamente lo que necesitabas oír.",
+      "luckyNumber": 21,
+      "mood": "Decidido",
+      "compatibility": "Leo"
+    },
+    {
+      "sign": "Tauro",
+      "emoji": "♉",
+      "element": "Tierra",
+      "prediction": "Los placeres simples son tu mejor medicina hoy. Un buen café, música que te gusta, caminar sin prisa. Si alguien te presiona para decidir rápido, no cedas — tu ritmo es tu fortaleza.",
+      "luckyNumber": 16,
+      "mood": "Sereno",
+      "compatibility": "Virgo"
+    },
+    {
+      "sign": "Géminis",
+      "emoji": "♊",
+      "element": "Aire",
+      "prediction": "Las conversaciones de hoy traen sorpresas. Alguien comparte contigo algo que cambia tu perspectiva sobre un tema viejo. Buen momento para escribir o grabar esas ideas que se te escapan entre semana.",
+      "luckyNumber": 12,
+      "mood": "Curioso",
+      "compatibility": "Libra"
+    },
+    {
+      "sign": "Cáncer",
+      "emoji": "♋",
+      "element": "Agua",
+      "prediction": "Tu intuición te dice quién necesita de ti hoy — hazle caso. Un gesto pequeño tuyo puede cambiarle el día a alguien. En lo económico, revisa un gasto recurrente que ya no tiene sentido.",
+      "luckyNumber": 29,
+      "mood": "Generoso",
+      "compatibility": "Escorpio"
+    },
+    {
+      "sign": "Leo",
+      "emoji": "♌",
+      "element": "Fuego",
+      "prediction": "Hoy el escenario es tuyo. Ya sea en redes, en una reunión o en la mesa, tu presencia se nota. Aprovecha para pedir ese favor que te daba pena — la respuesta te va a sorprender gratamente.",
+      "luckyNumber": 38,
+      "mood": "Magnético",
+      "compatibility": "Aries"
+    },
+    {
+      "sign": "Virgo",
+      "emoji": "♍",
+      "element": "Tierra",
+      "prediction": "Sábado ideal para reorganizar tu espacio, digital o físico. Ese orden externo te aclara la mente más de lo que imaginas. Una solución elegante a un problema laboral aparece cuando menos la buscas.",
+      "luckyNumber": 5,
+      "mood": "Ordenado",
+      "compatibility": "Capricornio"
+    },
+    {
+      "sign": "Libra",
+      "emoji": "♎",
+      "element": "Aire",
+      "prediction": "El arte de no hacer nada también es un arte, y hoy lo dominas. Pero si surge un plan social, déjate llevar — las mejores historias nacen de los sábados sin agenda. Alguien te mira con otros ojos.",
+      "luckyNumber": 24,
+      "mood": "Relajado",
+      "compatibility": "Géminis"
+    },
+    {
+      "sign": "Escorpio",
+      "emoji": "♏",
+      "element": "Agua",
+      "prediction": "Un secreto a voces finalmente se confirma. No reacciones de inmediato — deja que la información se asiente. Tu poder hoy está en la paciencia. En el amor, la vulnerabilidad te abre puertas.",
+      "luckyNumber": 13,
+      "mood": "Estratégico",
+      "compatibility": "Piscis"
+    },
+    {
+      "sign": "Sagitario",
+      "emoji": "♐",
+      "element": "Fuego",
+      "prediction": "Sábado con ganas de romper la rutina. Un lugar nuevo, una comida diferente, una ruta distinta — lo que sea que te saque de lo predecible. Tu mejor versión aparece cuando exploras sin mapa. Alguien cercano necesita tu honestidad, no tu consuelo.",
+      "luckyNumber": 9,
+      "mood": "Aventurero",
+      "compatibility": "Acuario"
+    },
+    {
+      "sign": "Capricornio",
+      "emoji": "♑",
+      "element": "Tierra",
+      "prediction": "Hoy te das cuenta de cuánto has avanzado sin notarlo. Mira hacia atrás un momento y reconócetelo. Un proyecto personal merece más atención de la que le das — este fin de semana es buen momento para retomarlo.",
+      "luckyNumber": 31,
+      "mood": "Reflexivo",
+      "compatibility": "Tauro"
+    },
+    {
+      "sign": "Acuario",
+      "emoji": "♒",
+      "element": "Aire",
+      "prediction": "Tu mente conecta puntos que nadie más ve. Esa idea rara que tuviste a media semana tiene más potencial del que crees — anótala antes de que se pierda. Buen día para causas sociales o ayudar a tu comunidad.",
+      "luckyNumber": 44,
+      "mood": "Visionario",
+      "compatibility": "Sagitario"
+    },
+    {
+      "sign": "Piscis",
+      "emoji": "♓",
+      "element": "Agua",
+      "prediction": "La música es tu ancla hoy — pon esa playlist que te transporta. Tu sensibilidad está a flor de piel pero eso no es debilidad, es tu superpoder. Un mensaje que llega tarde trae exactamente las palabras que necesitabas.",
+      "luckyNumber": 18,
+      "mood": "Sensible",
+      "compatibility": "Cáncer"
+    }
+  ]
+}
