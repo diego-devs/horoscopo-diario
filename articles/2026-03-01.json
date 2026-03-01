@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-01",
+  "horoscopes": [
+    {
+      "sign": "Aries",
+      "emoji": "♈",
+      "element": "Fuego",
+      "prediction": "Marzo empieza con fuego para ti. Una idea que parecía imposible de pronto encuentra camino. No te detengas a pedir permiso — actúa y ajusta sobre la marcha. Alguien te busca para un proyecto que vale la pena.",
+      "luckyNumber": 17,
+      "mood": "Imparable",
+      "compatibility": "Sagitario"
+    },
+    {
+      "sign": "Tauro",
+      "emoji": "♉",
+      "element": "Tierra",
+      "prediction": "Domingo para consentirte sin culpa. Tu cuerpo te pide descanso y tu mente claridad — dáselos. Una conversación casual revela una oportunidad financiera que no habías considerado. Escucha con atención.",
+      "luckyNumber": 22,
+      "mood": "Receptivo",
+      "compatibility": "Capricornio"
+    },
+    {
+      "sign": "Géminis",
+      "emoji": "♊",
+      "element": "Aire",
+      "prediction": "Tu cabeza va a mil hoy y eso es bueno. Anota todo, aunque parezca random — hay un hilo que conecta tus ideas dispersas. Una llamada o mensaje te saca una sonrisa inesperada. Buen día para reconectar.",
+      "luckyNumber": 8,
+      "mood": "Inspirado",
+      "compatibility": "Acuario"
+    },
+    {
+      "sign": "Cáncer",
+      "emoji": "♋",
+      "element": "Agua",
+      "prediction": "El hogar es tu refugio hoy. Cocinar, ordenar, simplemente estar — todo cuenta. Un recuerdo te visita y en vez de melancolía trae gratitud. Si alguien te pide consejo, dale el que tú mismo necesitas oír.",
+      "luckyNumber": 33,
+      "mood": "Nostálgico",
+      "compatibility": "Piscis"
+    },
+    {
+      "sign": "Leo",
+      "emoji": "♌",
+      "element": "Fuego",
+      "prediction": "Primer día del mes y ya quieres conquistar el mundo. Canaliza esa energía en algo concreto — un plan, una meta, un primer paso. Tu carisma hoy convence hasta al más escéptico. Úsalo con responsabilidad.",
+      "luckyNumber": 41,
+      "mood": "Ambicioso",
+      "compatibility": "Libra"
+    },
+    {
+      "sign": "Virgo",
+      "emoji": "♍",
+      "element": "Tierra",
+      "prediction": "Marzo te invita a soltar el control un poco. No todo necesita un plan perfecto — a veces lo imperfecto funciona mejor. Un detalle que habías pasado por alto resulta ser la pieza que faltaba. Confía en el proceso.",
+      "luckyNumber": 6,
+      "mood": "Flexible",
+      "compatibility": "Tauro"
+    },
+    {
+      "sign": "Libra",
+      "emoji": "♎",
+      "element": "Aire",
+      "prediction": "La belleza te llama hoy — busca lo estético en lo cotidiano. Un paseo, una foto, un rincón nuevo de tu ciudad. En las relaciones, di lo que sientes sin adornarlo tanto. La honestidad directa te sienta bien.",
+      "luckyNumber": 19,
+      "mood": "Artístico",
+      "compatibility": "Leo"
+    },
+    {
+      "sign": "Escorpio",
+      "emoji": "♏",
+      "element": "Agua",
+      "prediction": "Algo termina para que algo mejor empiece. No te aferres a lo que ya cumplió su ciclo. Tu intuición está afilada — si algo no te cuadra, probablemente no cuadra. En lo económico, un movimiento sutil da buenos frutos.",
+      "luckyNumber": 27,
+      "mood": "Transformador",
+      "compatibility": "Cáncer"
+    },
+    {
+      "sign": "Sagitario",
+      "emoji": "♐",
+      "element": "Fuego",
+      "prediction": "Marzo arranca con una chispa de optimismo que contagia. Tu entusiasmo hoy abre puertas que la lógica no podría. Un mensaje o noticia te confirma que vas por buen camino. No subestimes el poder de creer en lo que haces.",
+      "luckyNumber": 14,
+      "mood": "Optimista",
+      "compatibility": "Aries"
+    },
+    {
+      "sign": "Capricornio",
+      "emoji": "♑",
+      "element": "Tierra",
+      "prediction": "Domingo para planear la semana con calma. Tu capacidad de estructura es tu superpoder — úsala a tu favor. Un contacto profesional te recuerda que tu trabajo no pasa desapercibido. Celebra los logros pequeños.",
+      "luckyNumber": 10,
+      "mood": "Estratega",
+      "compatibility": "Virgo"
+    },
+    {
+      "sign": "Acuario",
+      "emoji": "♒",
+      "element": "Aire",
+      "prediction": "Tu lado rebelde pide espacio hoy. Haz algo diferente solo porque sí — rompe un hábito, prueba lo contrario de lo usual. Una idea que suena loca ahora puede ser brillante en una semana. Anótala.",
+      "luckyNumber": 36,
+      "mood": "Rebelde",
+      "compatibility": "Géminis"
+    },
+    {
+      "sign": "Piscis",
+      "emoji": "♓",
+      "element": "Agua",
+      "prediction": "Tu temporada sigue fuerte y hoy la creatividad fluye sin esfuerzo. Dibuja, escribe, sueña despierto — todo vale. Alguien cercano necesita tu presencia más que tus palabras. A veces estar ahí es suficiente.",
+      "luckyNumber": 23,
+      "mood": "Creativo",
+      "compatibility": "Escorpio"
+    }
+  ]
+}
