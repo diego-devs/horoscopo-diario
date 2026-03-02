@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-02",
+  "horoscopes": [
+    {
+      "sign": "Aries",
+      "emoji": "♈",
+      "element": "Fuego",
+      "prediction": "Lunes con ganas de comerte el mundo, pero hoy la clave es escuchar antes de actuar. Una persona que no esperabas te ofrece una perspectiva que cambia todo. En lo laboral, un obstáculo resulta ser un atajo disfrazado.",
+      "luckyNumber": 9,
+      "mood": "Estratégico",
+      "compatibility": "Leo"
+    },
+    {
+      "sign": "Tauro",
+      "emoji": "♉",
+      "element": "Tierra",
+      "prediction": "Tu paciencia da frutos hoy. Algo que sembraste hace semanas empieza a mostrar resultados visibles. No te compares con los demás — tu ritmo es perfecto. Una cena o comida especial eleva tu ánimo más de lo esperado.",
+      "luckyNumber": 31,
+      "mood": "Satisfecho",
+      "compatibility": "Virgo"
+    },
+    {
+      "sign": "Géminis",
+      "emoji": "♊",
+      "element": "Aire",
+      "prediction": "Hoy las palabras son tu arma secreta. Un correo, mensaje o conversación abre una puerta que llevaba cerrada. Cuidado con prometer de más por entusiasmo — mide tus compromisos. Tu humor contagia a todos a tu alrededor.",
+      "luckyNumber": 15,
+      "mood": "Elocuente",
+      "compatibility": "Libra"
+    },
+    {
+      "sign": "Cáncer",
+      "emoji": "♋",
+      "element": "Agua",
+      "prediction": "Tu intuición está en modo radar hoy. Si sientes que algo no encaja en una situación, hazle caso. Un gesto pequeño hacia alguien querido genera un impacto enorme. En lo financiero, revisa antes de firmar o aceptar.",
+      "luckyNumber": 4,
+      "mood": "Protector",
+      "compatibility": "Escorpio"
+    },
+    {
+      "sign": "Leo",
+      "emoji": "♌",
+      "element": "Fuego",
+      "prediction": "La semana empieza pidiéndote que brilles con autenticidad, no con show. Un logro pequeño merece reconocimiento — celébralo tú primero. Alguien te observa con admiración, aunque no lo diga. Tu presencia hoy inspira más de lo que crees.",
+      "luckyNumber": 28,
+      "mood": "Auténtico",
+      "compatibility": "Aries"
+    },
+    {
+      "sign": "Virgo",
+      "emoji": "♍",
+      "element": "Tierra",
+      "prediction": "Lunes productivo si organizas tus prioridades desde temprano. Un problema técnico o logístico se resuelve con una solución simple que habías descartado. Permítete un capricho al final del día — te lo has ganado.",
+      "luckyNumber": 12,
+      "mood": "Eficiente",
+      "compatibility": "Capricornio"
+    },
+    {
+      "sign": "Libra",
+      "emoji": "♎",
+      "element": "Aire",
+      "prediction": "Hoy necesitas equilibrio entre dar y recibir. Has estado enfocado en los demás — tómate un momento para ti. Una decisión pendiente se aclara si la miras desde un ángulo nuevo. Confía en tu sentido estético para elegir.",
+      "luckyNumber": 21,
+      "mood": "Equilibrado",
+      "compatibility": "Géminis"
+    },
+    {
+      "sign": "Escorpio",
+      "emoji": "♏",
+      "element": "Agua",
+      "prediction": "Hay una verdad que necesitas decir, y hoy es buen día para hacerlo. No será fácil pero liberará espacio para lo nuevo. Un descubrimiento inesperado en redes o lectura te fascina y te lleva por un rabbit hole productivo.",
+      "luckyNumber": 38,
+      "mood": "Revelador",
+      "compatibility": "Piscis"
+    },
+    {
+      "sign": "Sagitario",
+      "emoji": "♐",
+      "element": "Fuego",
+      "prediction": "La semana arranca con una energía aventurera que te pide salir de la rutina. Aunque sea algo pequeño — un café nuevo, una ruta diferente — rompe el patrón. Una oportunidad de aprendizaje aparece donde menos la buscabas. Dile sí.",
+      "luckyNumber": 42,
+      "mood": "Aventurero",
+      "compatibility": "Acuario"
+    },
+    {
+      "sign": "Capricornio",
+      "emoji": "♑",
+      "element": "Tierra",
+      "prediction": "Tu disciplina hoy marca la diferencia entre avanzar y estancarte. Un proyecto que parecía trabado se desbloquea con una llamada o reunión clave. No ignores las señales de cansancio — descansar también es ser productivo.",
+      "luckyNumber": 7,
+      "mood": "Determinado",
+      "compatibility": "Tauro"
+    },
+    {
+      "sign": "Acuario",
+      "emoji": "♒",
+      "element": "Aire",
+      "prediction": "Tu mente conecta puntos que nadie más ve hoy. Una idea innovadora para el trabajo o un hobby toma forma si la compartes con alguien de confianza. En lo social, un reencuentro casual alegra tu lunes más de lo esperado.",
+      "luckyNumber": 25,
+      "mood": "Visionario",
+      "compatibility": "Sagitario"
+    },
+    {
+      "sign": "Piscis",
+      "emoji": "♓",
+      "element": "Agua",
+      "prediction": "Los últimos días de tu temporada traen claridad emocional. Algo que te preocupaba pierde peso cuando lo ves con distancia. Un sueño o corazonada te señala hacia dónde enfocar tu energía esta semana. Hazle caso a tu voz interior.",
+      "luckyNumber": 16,
+      "mood": "Intuitivo",
+      "compatibility": "Cáncer"
+    }
+  ]
+}
