@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-04",
+  "horoscopes": [
+    {
+      "sign": "Aries",
+      "emoji": "♈",
+      "element": "Fuego",
+      "prediction": "Miércoles de contrastes: la mañana pide paciencia, la tarde premia tu impulso. Un mensaje inesperado te abre una ventana laboral interesante. No descartes la idea loca que te ronda — tiene más sentido del que parece.",
+      "luckyNumber": 17,
+      "mood": "Impulsivo",
+      "compatibility": "Sagitario"
+    },
+    {
+      "sign": "Tauro",
+      "emoji": "♉",
+      "element": "Tierra",
+      "prediction": "Hoy el universo te recompensa con estabilidad. Un tema financiero que te inquietaba se resuelve mejor de lo previsto. Aprovecha para nutrir una relación cercana — un detalle simple vale más que mil palabras. Tu cuerpo te pide verde: hazle caso.",
+      "luckyNumber": 22,
+      "mood": "Sereno",
+      "compatibility": "Cáncer"
+    },
+    {
+      "sign": "Géminis",
+      "emoji": "♊",
+      "element": "Aire",
+      "prediction": "Tu cabeza va a mil por hora y eso hoy es una ventaja. Conectas ideas que parecían sueltas y armas un plan sólido. Cuidado con la dispersión después de las 3 PM — prioriza. Una broma tuya le saca sonrisa a alguien que la necesitaba.",
+      "luckyNumber": 6,
+      "mood": "Ingenioso",
+      "compatibility": "Acuario"
+    },
+    {
+      "sign": "Cáncer",
+      "emoji": "♋",
+      "element": "Agua",
+      "prediction": "El hogar es tu centro de poder hoy. Ordena un espacio, cocina algo rico, o simplemente respira en tu rincón favorito. Una persona cercana necesita que la escuches sin juzgar. En lo laboral, confía en tu experiencia más que en la opinión ajena.",
+      "luckyNumber": 33,
+      "mood": "Hogareño",
+      "compatibility": "Tauro"
+    },
+    {
+      "sign": "Leo",
+      "emoji": "♌",
+      "element": "Fuego",
+      "prediction": "Hoy tu carisma está al máximo pero la clave es usarlo con propósito. Una presentación, reunión o conversación importante sale mejor si eres conciso. No busques aplausos — busca impacto. Alguien del pasado te contacta con buenas intenciones.",
+      "luckyNumber": 44,
+      "mood": "Magnético",
+      "compatibility": "Libra"
+    },
+    {
+      "sign": "Virgo",
+      "emoji": "♍",
+      "element": "Tierra",
+      "prediction": "Los detalles te salvan hoy. Revisa ese documento, esa cifra, ese correo antes de enviarlo — hay un error escondido que solo tú detectas. Por la tarde, un paseo corto o cambio de escenario desbloquea una solución creativa. Mereces ese descanso.",
+      "luckyNumber": 11,
+      "mood": "Meticuloso",
+      "compatibility": "Escorpio"
+    },
+    {
+      "sign": "Libra",
+      "emoji": "♎",
+      "element": "Aire",
+      "prediction": "Miércoles de decisiones. No las pospongas — tu instinto hoy está afinado. Una colaboración que arrancó floja cobra fuerza si pones límites claros. En lo personal, date permiso de decir que no a un compromiso que te drena.",
+      "luckyNumber": 19,
+      "mood": "Decidido",
+      "compatibility": "Leo"
+    },
+    {
+      "sign": "Escorpio",
+      "emoji": "♏",
+      "element": "Agua",
+      "prediction": "Tu poder de transformación está activado. Algo que parecía estancado se mueve con un pequeño empujón tuyo. Una conversación profunda con alguien de confianza te revela algo sobre ti mismo. No temas la vulnerabilidad — es tu fuerza secreta hoy.",
+      "luckyNumber": 8,
+      "mood": "Transformador",
+      "compatibility": "Piscis"
+    },
+    {
+      "sign": "Sagitario",
+      "emoji": "♐",
+      "element": "Fuego",
+      "prediction": "Hoy tu optimismo es contagioso y atrae buenas noticias. Un plan que habías dejado en pausa merece otra oportunidad — las condiciones cambiaron a tu favor. Cuida tu energía después de las 6 PM, tu cuerpo necesita frenar. Una risa inesperada te recarga el alma.",
+      "luckyNumber": 27,
+      "mood": "Optimista",
+      "compatibility": "Aries"
+    },
+    {
+      "sign": "Capricornio",
+      "emoji": "♑",
+      "element": "Tierra",
+      "prediction": "Tu reputación trabaja a tu favor hoy. Alguien te recomienda o menciona sin que lo sepas, y eso trae frutos pronto. En lo financiero, es buen día para planificar a mediano plazo. No cargues solo — pedir ayuda no es debilidad, es estrategia.",
+      "luckyNumber": 36,
+      "mood": "Estratégico",
+      "compatibility": "Virgo"
+    },
+    {
+      "sign": "Acuario",
+      "emoji": "♒",
+      "element": "Aire",
+      "prediction": "Tu lado rebelde quiere romper con algo hoy — y puede que sea justo lo que necesitas. Un cambio pequeño en tu rutina genera un efecto dominó positivo. Tecnología a tu favor: una herramienta o app nueva te ahorra horas. Compártela.",
+      "luckyNumber": 14,
+      "mood": "Revolucionario",
+      "compatibility": "Géminis"
+    },
+    {
+      "sign": "Piscis",
+      "emoji": "♓",
+      "element": "Agua",
+      "prediction": "La creatividad fluye sin esfuerzo hoy. Si tienes un proyecto artístico o personal, dedícale aunque sea 20 minutos — lo que salga te sorprenderá. Una señal en forma de canción, imagen o coincidencia te confirma que vas por buen camino. Confía.",
+      "luckyNumber": 3,
+      "mood": "Creativo",
+      "compatibility": "Escorpio"
+    }
+  ]
+}
