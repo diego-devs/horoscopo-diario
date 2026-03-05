@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-05",
+  "horoscopes": [
+    {
+      "sign": "Aries",
+      "emoji": "♈",
+      "element": "Fuego",
+      "prediction": "Un impulso creativo te sacude hoy. No lo dejes pasar — actúa antes de que la duda se instale. En lo laboral, alguien reconoce tu esfuerzo cuando menos lo esperas.",
+      "luckyNumber": 17,
+      "mood": "Inspirado",
+      "compatibility": "Leo"
+    },
+    {
+      "sign": "Tauro",
+      "emoji": "♉",
+      "element": "Tierra",
+      "prediction": "Hoy necesitas tierra firme bajo tus pies. Evita compromisos que no te convencen del todo. Un paseo corto o contacto con la naturaleza te recarga más de lo que imaginas.",
+      "luckyNumber": 22,
+      "mood": "Centrado",
+      "compatibility": "Capricornio"
+    },
+    {
+      "sign": "Géminis",
+      "emoji": "♊",
+      "element": "Aire",
+      "prediction": "Las palabras son tu arma secreta hoy. Ese mensaje que llevas días pensando — mándalo ya. Una doble oportunidad se presenta: confía en tu instinto para elegir la correcta.",
+      "luckyNumber": 5,
+      "mood": "Comunicativo",
+      "compatibility": "Libra"
+    },
+    {
+      "sign": "Cáncer",
+      "emoji": "♋",
+      "element": "Agua",
+      "prediction": "La nostalgia toca tu puerta pero no la dejes quedarse mucho. Mira hacia adelante: un plan nuevo con alguien querido te llena de ilusión. Cocinar algo especial mejora tu ánimo.",
+      "luckyNumber": 14,
+      "mood": "Esperanzado",
+      "compatibility": "Piscis"
+    },
+    {
+      "sign": "Leo",
+      "emoji": "♌",
+      "element": "Fuego",
+      "prediction": "Hoy brillas en lo profesional pero cuida no descuidar lo personal. Una llamada o mensaje a alguien importante hace más diferencia de la que crees. El reconocimiento llega solo — no lo fuerces.",
+      "luckyNumber": 33,
+      "mood": "Generoso",
+      "compatibility": "Sagitario"
+    },
+    {
+      "sign": "Virgo",
+      "emoji": "♍",
+      "element": "Tierra",
+      "prediction": "Tu mente analítica encuentra soluciones donde otros ven problemas. Un pequeño cambio en tu rutina matutina puede transformar tu día entero. No subestimes el poder de empezar diferente.",
+      "luckyNumber": 8,
+      "mood": "Estratégico",
+      "compatibility": "Tauro"
+    },
+    {
+      "sign": "Libra",
+      "emoji": "♎",
+      "element": "Aire",
+      "prediction": "Una decisión importante se aclara hoy. Deja de pesar pros y contras y escucha a tu corazón por una vez. La belleza en las cosas simples te recuerda qué es realmente valioso.",
+      "luckyNumber": 11,
+      "mood": "Decidido",
+      "compatibility": "Acuario"
+    },
+    {
+      "sign": "Escorpio",
+      "emoji": "♏",
+      "element": "Agua",
+      "prediction": "Algo que mantenías oculto sale a la luz — y resulta ser liberador. Es un jueves para transformaciones sutiles pero poderosas. Permítete ser vulnerable con quien lo merece.",
+      "luckyNumber": 13,
+      "mood": "Transformador",
+      "compatibility": "Cáncer"
+    },
+    {
+      "sign": "Sagitario",
+      "emoji": "♐",
+      "element": "Fuego",
+      "prediction": "La curiosidad te lleva a descubrir algo fascinante hoy. Un contacto inesperado trae noticias que amplían tu horizonte. No te quedes quieto: el movimiento — físico o mental — es tu aliado.",
+      "luckyNumber": 27,
+      "mood": "Explorador",
+      "compatibility": "Aries"
+    },
+    {
+      "sign": "Capricornio",
+      "emoji": "♑",
+      "element": "Tierra",
+      "prediction": "Los cimientos que has puesto empiezan a sostener algo grande. Ten paciencia con los resultados — la semilla ya está plantada. Un consejo de alguien mayor te ahorra un error costoso.",
+      "luckyNumber": 4,
+      "mood": "Paciente",
+      "compatibility": "Virgo"
+    },
+    {
+      "sign": "Acuario",
+      "emoji": "♒",
+      "element": "Aire",
+      "prediction": "Tu mente va tres pasos adelante del resto. Aprovecha esa claridad para planear algo a mediano plazo. Una causa social o comunitaria te conecta con personas que comparten tu visión.",
+      "luckyNumber": 19,
+      "mood": "Visionario",
+      "compatibility": "Géminis"
+    },
+    {
+      "sign": "Piscis",
+      "emoji": "♓",
+      "element": "Agua",
+      "prediction": "El arte y la música son tu refugio hoy. Si algo te preocupa, exprésalo — escribir o dibujar funciona mejor que darle vueltas en la cabeza. Un sueño reciente tiene más significado del que crees.",
+      "luckyNumber": 7,
+      "mood": "Creativo",
+      "compatibility": "Escorpio"
+    }
+  ]
+}
