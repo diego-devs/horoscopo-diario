@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-06",
+  "horoscopes": [
+    {
+      "sign": "Aries",
+      "emoji": "♈",
+      "element": "Fuego",
+      "prediction": "Este viernes te trae claridad mental. Una decisión que venías arrastrando por fin se resuelve si confías en tu instinto. Por la noche, date permiso de descansar sin culpa.",
+      "luckyNumber": 7,
+      "mood": "Claro",
+      "compatibility": "Leo"
+    },
+    {
+      "sign": "Tauro",
+      "emoji": "♉",
+      "element": "Tierra",
+      "prediction": "Algo que sembraste hace semanas empieza a dar señales de vida. No lo apresures — la paciencia es tu aliada natural. Un antojo se convierte en un buen pretexto para compartir con alguien especial.",
+      "luckyNumber": 22,
+      "mood": "Paciente",
+      "compatibility": "Cáncer"
+    },
+    {
+      "sign": "Géminis",
+      "emoji": "♊",
+      "element": "Aire",
+      "prediction": "Hoy las palabras son tu superpoder. Escribe esa idea, manda ese mensaje, di lo que llevas callando. La comunicación abre puertas que la duda mantiene cerradas.",
+      "luckyNumber": 15,
+      "mood": "Elocuente",
+      "compatibility": "Libra"
+    },
+    {
+      "sign": "Cáncer",
+      "emoji": "♋",
+      "element": "Agua",
+      "prediction": "La nostalgia toca tu puerta, pero no te quedes ahí. Usa los recuerdos como combustible, no como ancla. Un mensaje inesperado te saca una sonrisa genuina.",
+      "luckyNumber": 6,
+      "mood": "Nostálgico",
+      "compatibility": "Tauro"
+    },
+    {
+      "sign": "Leo",
+      "emoji": "♌",
+      "element": "Fuego",
+      "prediction": "El viernes te pide soltar el control un poco. No todo tiene que salir perfecto para salir bien. Alguien nota tu esfuerzo aunque no lo diga — los aplausos llegan cuando menos los esperas.",
+      "luckyNumber": 33,
+      "mood": "Generoso",
+      "compatibility": "Sagitario"
+    },
+    {
+      "sign": "Virgo",
+      "emoji": "♍",
+      "element": "Tierra",
+      "prediction": "Tu mente analítica brilla hoy resolviendo lo que otros ni ven. Pero ojo: no cargues con problemas ajenos como si fueran tuyos. Cierra la semana organizando tus prioridades del lunes.",
+      "luckyNumber": 18,
+      "mood": "Estratégico",
+      "compatibility": "Capricornio"
+    },
+    {
+      "sign": "Libra",
+      "emoji": "♎",
+      "element": "Aire",
+      "prediction": "El arte, la música o simplemente algo bello alimentan tu alma hoy. No subestimes el poder de la estética en tu bienestar. Una propuesta social para el fin de semana vale la pena aceptar.",
+      "luckyNumber": 12,
+      "mood": "Inspirado",
+      "compatibility": "Acuario"
+    },
+    {
+      "sign": "Escorpio",
+      "emoji": "♏",
+      "element": "Agua",
+      "prediction": "Hay una verdad que necesitas enfrentar contigo mismo. No tiene que ser hoy completa, pero sí dar el primer paso. Tu poder está en la honestidad brutal, especialmente la interna.",
+      "luckyNumber": 4,
+      "mood": "Profundo",
+      "compatibility": "Piscis"
+    },
+    {
+      "sign": "Sagitario",
+      "emoji": "♐",
+      "element": "Fuego",
+      "prediction": "El viernes llega con un impulso creativo que no esperabas. Deja que las ideas fluyan sin filtrarlas tanto — lo imperfecto también tiene magia. Un plan espontáneo para hoy o mañana te recarga las pilas como nada.",
+      "luckyNumber": 21,
+      "mood": "Espontáneo",
+      "compatibility": "Aries"
+    },
+    {
+      "sign": "Capricornio",
+      "emoji": "♑",
+      "element": "Tierra",
+      "prediction": "Cierra la semana con satisfacción: hiciste más de lo que crees. Permítete celebrar los avances pequeños. Una conversación sobre dinero o trabajo trae buenas perspectivas a mediano plazo.",
+      "luckyNumber": 10,
+      "mood": "Satisfecho",
+      "compatibility": "Virgo"
+    },
+    {
+      "sign": "Acuario",
+      "emoji": "♒",
+      "element": "Aire",
+      "prediction": "Tu lado rebelde quiere salir a jugar. Rompe una rutina, prueba algo diferente, desafía lo establecido — pero con inteligencia. La originalidad hoy te distingue del ruido.",
+      "luckyNumber": 27,
+      "mood": "Rebelde",
+      "compatibility": "Géminis"
+    },
+    {
+      "sign": "Piscis",
+      "emoji": "♓",
+      "element": "Agua",
+      "prediction": "Los sueños de anoche podrían traer un mensaje sutil — presta atención. Tu compasión natural te conecta hoy con alguien que necesita exactamente lo que tú sabes dar. Cierra la semana con gratitud.",
+      "luckyNumber": 9,
+      "mood": "Compasivo",
+      "compatibility": "Escorpio"
+    }
+  ]
+}
